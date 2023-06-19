@@ -1,0 +1,19 @@
+{
+  "name": "typescript-dia1",
+  "version": "0.1.0",
+  "description": "Ejemplo de npm y TS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "js",
+    "ts"
+  ],
+  "author": "David Torrado Lago",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
